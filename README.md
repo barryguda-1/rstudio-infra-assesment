@@ -4,7 +4,7 @@ R-Studio Connect Automation
 Ensure you have Terraform installed and aws cli configured on your environment
 
 ## 1.First clone the project
-    [ec2-user@XXXXXXX tmp]$ git clone git@github.com:barryguda-1/rstudio-infra-assesment.git
+    [ec2-user@XXXXXXX tmp]$ git clone https://github.com/barryguda-1/rstudio-infra-assesment.git
 
 ## 2. Intialize the environment
     [ec2-user@XXXXXXX tmp] terraform init
